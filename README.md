@@ -1,0 +1,2 @@
+# ranistar.github.io
+blogtest
